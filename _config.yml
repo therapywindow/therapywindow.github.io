@@ -1,12 +1,11 @@
 # Site settings
-title: *folio
+title: Effy West
 email: you@example.com
-description: > # this means to ignore newlines until "baseurl:"
-  A simple, whitespace, helvetica based portfolio theme.
+description: Counselling and psychotherapy in London
 baseurl:  # the subpath of your site, e.g. /blog/
 url:  # the base hostname & protocol for your site
-twitter_username: twitter_username
-github_username:  github_username
+twitter_username: therapywindow
+github_username:  therapywindow
 
 # Build settings
 markdown: kramdown
@@ -20,10 +19,10 @@ paginate_path: "/blog/page:num/"
 
 collections:
   portfolio:
-    output: true
+    output: false
     permalink: /portfolio/:path/
   poetry:
-    output: true
+    output: false
     permalink: /poetry/:path/
 
 
