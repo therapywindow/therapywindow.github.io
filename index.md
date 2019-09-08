@@ -11,7 +11,7 @@ I’m a qualified psychodynamic therapist and counsellor. Part-time, I lecture i
 
 I work with a range of difficulties, including stress, mental health problems, traumatic experiences and interpersonal difficulties.
 
-My session fee is £100. A number of low-cost spaces are available for those who have no/a very limited income. Please get in touch.
+Some low-cost spaces are available for those who have no/a very limited income. Please get in touch.
 
 You can reach me at [effywesttherapy@gmail.com](mailto:effywesttherapy@gmail.com).
 
