@@ -7,13 +7,13 @@ description: Counselling and psychotherapy in London
 
 <img class="col one right" src="/img/effy-profile.jpg" alt="Effy West" style="margin: 0 0 1em 1em" />
 
-I’m a psychodynamic therapist and counsellor who has experience in working with the LGBTQ community, mental health problems, and complex trauma. I am particularly interested in how we relate to one another and the histories we bring to relationships.
+I’m a qualified psychodynamic therapist and counsellor. Part-time, I lecture in counselling, and the rest of the time I run my private practice and engage in continuing professional development, including convening reading groups and peer supervision.
 
-My practice is informed by critical and reflective feminist (trans and sex worker-inclusive) perspectives.
+I work with a range of difficulties, including stress, mental health problems, traumatic experiences and interpersonal difficulties.
 
-My session fee is £70. A number of low-cost spaces are available for those who have no/a very limited income. Please get in touch.
+My session fee is £100. A number of low-cost spaces are available for those who have no/a very limited income. Please get in touch.
 
-You can reach me at [effywesttherapy@gmail.com](mailto:effywesttherapy@gmail.com)
+You can reach me at [effywesttherapy@gmail.com](mailto:effywesttherapy@gmail.com).
 
 <br/>
 <hr/>
