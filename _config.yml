@@ -11,18 +11,3 @@ github_username:  therapywindow
 markdown: kramdown
 
 highlighter: rouge
-
-# Pagination
-paginate: 15
-paginate_path: "/blog/page:num/"
-
-
-collections:
-  portfolio:
-    output: false
-    permalink: /portfolio/:path/
-  poetry:
-    output: false
-    permalink: /poetry/:path/
-
-
