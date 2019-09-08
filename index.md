@@ -5,9 +5,7 @@ navtitle: about
 description: Counselling and psychotherapy in London
 ---
 
-<img class="col one right" src="/img/effy-profile.jpg" alt="Effy West" />
-
-<br/>
+<img class="col one right" src="/img/effy-profile.jpg" alt="Effy West" style="margin: 0 0 1em 1em" />
 
 I’m a psychodynamic therapist and counsellor who has experience in working with the LGBTQ community, mental health problems, and complex trauma. I am particularly interested in how we relate to one another and the histories we bring to relationships.
 
