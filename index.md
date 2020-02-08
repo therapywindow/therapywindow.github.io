@@ -4,6 +4,7 @@ title: Effy West
 navtitle: about
 description: Counselling and psychotherapy in London
 ---
+<img class="col one right" src="/img/effy-profile.jpg" alt="West Therapy" style="margin: 0 0 1em 1em" />
 
 Welcome. My name is Effy, and I’m a therapist and counsellor offering 1-to-1 therapeutic work in Hackney.
 
