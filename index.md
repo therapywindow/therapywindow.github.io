@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Effy West, MNCS Accred.
+title: Effy West
 navtitle: about
-description: Counselling and psychotherapy in London
+description: Counselling and psychotherapy in London, MNCS Accredited.
 ---
 <img class="col one right" src="/img/effy-profile.jpg" alt="West Therapy" style="margin: 0 0 1em 1em" />
 
