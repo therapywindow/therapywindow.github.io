@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Effy West
+title: Effy West, MNCS Accred.
 navtitle: about
 description: Counselling and psychotherapy in London
 ---
