@@ -32,7 +32,7 @@ You might not be sure whether I work with the issues you want to bring. Please f
 
 <b>How does it work?</b>
 
-I am psychodynamically-trained, though I occasionally draw on other approaches. I am very happy to discuss how we will work together at the beginning, and throughout the process.
+I am psychodynamically trained, though I occasionally draw on other approaches. I am very happy to discuss how we will work together at the beginning, and throughout the process.
 
 **For individuals**
 Usually I work on an open-ended basis. Sessions take place once a week for 50 minutes. Sessions cost £70. A small number of low-cost spaces are available for those who are on a low income and do not have access to funds or other wealth.  Please get in touch to discuss what may be possible.
