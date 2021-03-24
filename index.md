@@ -6,11 +6,20 @@ description: Counselling and psychotherapy in London, MNCS Accredited.
 ---
 <img class="col one right" src="/img/effy-profile.jpg" alt="West Therapy" style="margin: 0 0 1em 1em" />
 
-Welcome. My name is Effy. I’m an MNCS Accredited therapist and counsellor offering 1-to-1 therapeutic work, at present only online. 
+Welcome. My name is Effy. I’m an MNCS Accredited therapist and counsellor. I work primarily with individuals on an open-ended basis. At present I'm offering only remote sessions. 
+_At present my individual therapy slots are full, but I have a limited number of spaces for couples: see below._
 
-I also offer couple and psychosexual work in my capacity as a trainee psychosexual therapist.
+I offer a mixture of exploration, insight and gentle challenge to help my clients understand their lives and interpersonal worlds in greater depth.
 
-I offer a mixture of exploration, insight and gentle challenge to help my clients understand their lives and interpersonal worlds in greater depth. My training was psychodynamic in orientation. 
+**For individuals:**
+Usually I work on an open-ended basis. Sessions take place once a week for 50 minutes. Sessions cost £70. A small number of low-cost spaces are available for those who are on a low income and do not have access to funds or other wealth.  Please get in touch to discuss what may be possible.
+
+**For couples:**
+I'm currently undertaking additional advanced training in psychosexual and relationship therapy. I therefore have a small number of spaces reserved for couples, and can offer these sessions at a reduced rate of £50 (this sort of therapy typically costs £80-100 for couples). I work using an integrative model that combines psychodynamic relational thinking with practical behavioural interventions. I take a reflective and holistic view that considers how society, identity and background may influence a person's relationship to sex and pleasure.
+
+Many different issues around sexuality and intimacy may be suitable for psychosexual and relational work. If you're not sure, don't hesitate to get in touch: I offer a free-of-charge initial consultation for us to think together about whether it could be of use to you as a couple.
+
+You can get the ball rolling by contacting me: [effywesttherapy@gmail.com](mailto:effywesttherapy@gmail.com).
 
 <b>What can I help with?</b>
 
@@ -30,19 +39,9 @@ The above list is not exhaustive, and I also work with trauma, interpersonal pro
 
 You might not be sure whether I work with the issues you want to bring. Please feel free to contact me — we can consider together whether I’m the right therapist for you. If not, I can usually think of a trusted colleague or two who might be a better fit and put you in touch with them.
 
-<b>How does it work?</b>
+<b>How do you work?</b>
 
 I am psychodynamically trained, though I occasionally draw on other approaches. I am very happy to discuss how we will work together at the beginning, and throughout the process.
-
-**For individuals:**
-Usually I work on an open-ended basis. Sessions take place once a week for 50 minutes. Sessions cost £70. A small number of low-cost spaces are available for those who are on a low income and do not have access to funds or other wealth.  Please get in touch to discuss what may be possible.
-
-**For couples:**
-I'm a trainee psychosexual therapist. I can offer sessions for couples at a reduced rate of £50 a session (psychosexual therapy typically costs £80-100 for couples). I am training in an integrative model that combines psychodynamic relational thinking with practical behavioural interventions. I am also very interested in how the psychosocial affects our relationship to sex and pleasure, and how marginalisation plays into things. 
-
-Many different issues around sexuality and intimacy may be suitable for psychosexual work, but if you're not sure, don't hesitate to get in touch. 
-
-You can get the ball rolling by contacting me: [effywesttherapy@gmail.com](mailto:effywesttherapy@gmail.com).
 
 <br/>
 <hr/>
