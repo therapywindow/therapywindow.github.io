@@ -6,7 +6,8 @@ description: Counselling and psychotherapy in London, MNCS Accredited.
 ---
 <img class="col one right" src="/img/effy-profile.jpg" alt="West Therapy" style="margin: 0 0 1em 1em" />
 
-Welcome. My name is Effy. I’m an MNCS Accredited therapist and counsellor. I work primarily with individuals on an open-ended basis. At present I'm offering only remote sessions. 
+Welcome. My name is Effy. I’m an MNCS Accredited therapist and counsellor. I work primarily with individuals on an open-ended basis. I'm currently offering only remote sessions, but hope to resume some in-person work in late 2021.
+
 _At present my individual therapy slots are full, but I have a limited number of spaces for couples: see below._
 
 I offer a mixture of exploration, insight and gentle challenge to help my clients understand their lives and interpersonal worlds in greater depth.
