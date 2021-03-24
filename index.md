@@ -34,7 +34,13 @@ You might not be sure whether I work with the issues you want to bring. Please f
 
 I am psychodynamically-trained, though I occasionally draw on other approaches. I am very happy to discuss how we will work together at the beginning, and throughout the process.
 
-I work with individuals on an open-ended basis. Sessions are usually once a week for 50 minutes. Sessions cost £70. A small number of low-cost spaces are available for those who are on a low income and do not have access to funds or other wealth.  Please get in touch to discuss what may be possible.
+**For individuals**
+Usually I work on an open-ended basis. Sessions take place once a week for 50 minutes. Sessions cost £70. A small number of low-cost spaces are available for those who are on a low income and do not have access to funds or other wealth.  Please get in touch to discuss what may be possible.
+
+**For couples**
+I'm a trainee psychosexual therapist. I can offer sessions for couples at a reduced rate of £50 a session (psychosexual therapy typically costs £80-100 for couples). I am training in an integrative model that combines psychodynamic relational thinking with practical behavioural interventions. I am also very interested in how the psychosocial affects our relationship to sex and pleasure, and how marginalisation plays into things. 
+
+Many different issues around sexuality and intimacy may be suitable for psychosexual work, but if you're not sure, don't hesitate to get in touch. 
 
 You can get the ball rolling by contacting me: [effywesttherapy@gmail.com](mailto:effywesttherapy@gmail.com).
 
