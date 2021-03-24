@@ -6,9 +6,11 @@ description: Counselling and psychotherapy in London, MNCS Accredited.
 ---
 <img class="col one right" src="/img/effy-profile.jpg" alt="West Therapy" style="margin: 0 0 1em 1em" />
 
-Welcome. My name is Effy, and I’m a therapist and counsellor offering 1-to-1 therapeutic work in Hackney.
+Welcome. My name is Effy. I’m an MNCS Accredited therapist and counsellor offering 1-to-1 therapeutic work, at present only online. 
 
-I offer a mixture of exploration, insight and gentle challenge to help my clients understand their lives and interpersonal worlds in greater depth.
+I also offer couple and psychosexual work in my capacity as a trainee psychosexual therapist.
+
+I offer a mixture of exploration, insight and gentle challenge to help my clients understand their lives and interpersonal worlds in greater depth. My training was psychodynamic in orientation. 
 
 <b>What can I help with?</b>
 
