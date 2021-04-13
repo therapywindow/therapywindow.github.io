@@ -18,7 +18,7 @@ Typically I work on an open-ended basis. Sessions take place once a week for 50 
 **For couples:**
 I'm currently undertaking additional advanced training in psychosexual and relationship therapy. I therefore have a small number of spaces reserved for couples, and can offer these sessions at a reduced rate of £50 (this sort of therapy typically costs £80-100 for couples).
 
-I work using an integrative model underpinned by psychodynamic relational thinking. Where appropriate this can optionally be combined with practical exercises amd experiments between sessions. 
+I work using an integrative model underpinned by psychodynamic relational thinking. Where appropriate this can optionally be combined with practical exercises and experiments between sessions. 
 
 Many different issues around sexuality and intimacy may be suitable for psychosexual and relational work. If you're not sure, don't hesitate to get in touch: I offer a free-of-charge initial consultation for us to think together about whether it could be of use to you as a couple.
 
