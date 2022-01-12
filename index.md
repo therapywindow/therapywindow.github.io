@@ -6,19 +6,19 @@ description: Counselling and psychotherapy in London, MNCS Accredited.
 ---
 <img class="col one right" src="/img/8D6106A2-86BA-4F07-AF7B-1B8AC3DCCADE.jpeg" alt="West Therapy" style="margin: 0 0 1em 1em" />
 
-Welcome. My name is Effy. I’m an MNCS Accredited therapist and counsellor. I work primarily with individuals on an open-ended basis. I'm currently offering only remote sessions, but hope to resume some in-person work in 2022.
+Welcome. My name is Effy. I’m an MNCS Accredited therapist and counsellor. I also teach, train and supervise counsellors and therapists.
 
-_At present my individual therapy slots are full, but I have a limited number of spaces for couples: see below._
+_At present my individual, couple and psychosxual slots are full, but I have some room for new supervisees: see below._
 
-I offer a mixture of exploration, insight and gentle challenge to help my clients understand their lives and interpersonal worlds in greater depth.
+I offer a mixture of exploration, insight and gentle challenge to help those I work with understand their lives and interpersonal worlds in greater depth.
 
 **For individuals:**
-Typically I work on an open-ended basis. Sessions take place once a week for 50 minutes. Sessions cost £80. A small number of low-cost spaces are available for those who are on a low income and do not have access to funds or other wealth.  Please get in touch to discuss what may be possible.
+I offer psychodynamic counselling and therapy for individuals. Typically I work on an open-ended basis. Sessions take place once a week for 50 minutes and cost £80. I reserve a number of low-cost spaces in my practice for those who are on a low income and do not have access to funds or other wealth.  Please get in touch to discuss what may be possible.
 
 **For couples:**
-I'm currently undertaking additional advanced training in psychosexual and relationship therapy. I therefore have a small number of spaces reserved for couples.
+I'm currently undertaking additional advanced training in psychosexual and relationship therapy at Tavistock Relationships. I'm in my final year of training.
 
-I work using an integrative model underpinned by psychodynamic relational thinking. Where appropriate this can optionally be combined with practical exercises and experiments between sessions. 
+When working with couples I use an integrative model underpinned by psychodynamic relational thinking. Where appropriate this can be combined with practical homework exercises and behavioural experiments between sessions. 
 
 Many different issues around sexuality and intimacy may be suitable for psychosexual and relational work. If you're not sure, don't hesitate to get in touch: I offer a free-of-charge initial consultation for us to think together about whether it could be of use to you as a couple.
 
@@ -36,11 +36,11 @@ Many of my clients seek out therapy with me because they:
 
 ⁃ Would like to understand how their life experiences are affecting their relationships in the present, opening up new possibilities for relating
 
-⁃ Have experienced marginalisation and want a therapist who strives to take an inclusive stance (I am committed to continually learning and improving by listening to the lived experiences of those with identities different from my own)
+⁃ Have experienced marginalisation and want a therapist who strives to take an inclusive stance (I am committed to continually learning and improving through personal and professional reflection and by listening to the experiences of those with identities different from my own)
 
-The above list is not exhaustive, and I also work with trauma, interpersonal problems, life transitions, and ongoing mental health difficulties (including, but certainly not limited to, depression and anxiety).
+The above list is not exhaustive -- I also work with trauma, interpersonal problems, life transitions, and ongoing mental health difficulties (including, but certainly not limited to, depression and anxiety).
 
-You might not be sure whether I work with the issues you want to bring. Please feel free to contact me — we can consider together whether I’m the right therapist for you. If not, I can usually think of a trusted colleague or two who might be a better fit and put you in touch with them.
+You might not be sure whether I work with the issues you want to bring. Please feel free to contact me — we can consider together whether I’m the right therapist for you. If not, I can usually think of a trusted colleague or two who might be a better fit and I can put you in touch with them.
 
 <b>How do you work?</b>
 
