@@ -16,7 +16,7 @@ I offer a mixture of exploration, insight and gentle challenge to help my client
 Typically I work on an open-ended basis. Sessions take place once a week for 50 minutes. Sessions cost £70. A small number of low-cost spaces are available for those who are on a low income and do not have access to funds or other wealth.  Please get in touch to discuss what may be possible.
 
 **For couples:**
-I'm currently undertaking additional advanced training in psychosexual and relationship therapy. I therefore have a small number of spaces reserved for couples, and can offer these sessions at a reduced rate of £50 (this sort of therapy typically costs £80-100 for couples).
+I'm currently undertaking additional advanced training in psychosexual and relationship therapy. I therefore have a small number of spaces reserved for couples.
 
 I work using an integrative model underpinned by psychodynamic relational thinking. Where appropriate this can optionally be combined with practical exercises and experiments between sessions. 
 
