@@ -13,7 +13,7 @@ _At present my individual therapy slots are full, but I have a limited number of
 I offer a mixture of exploration, insight and gentle challenge to help my clients understand their lives and interpersonal worlds in greater depth.
 
 **For individuals:**
-Typically I work on an open-ended basis. Sessions take place once a week for 50 minutes. Sessions cost £70. A small number of low-cost spaces are available for those who are on a low income and do not have access to funds or other wealth.  Please get in touch to discuss what may be possible.
+Typically I work on an open-ended basis. Sessions take place once a week for 50 minutes. Sessions cost £80. A small number of low-cost spaces are available for those who are on a low income and do not have access to funds or other wealth.  Please get in touch to discuss what may be possible.
 
 **For couples:**
 I'm currently undertaking additional advanced training in psychosexual and relationship therapy. I therefore have a small number of spaces reserved for couples.
