@@ -8,20 +8,22 @@ description: Counselling and psychotherapy in London, MNCS Accredited.
 
 Welcome. My name is Effy. I’m an MNCS Accredited therapist and counsellor. I also teach, train and supervise counsellors and therapists.
 
-I offer a mixture of exploration, insight and gentle challenge to help those I work with understand their lives and interpersonal worlds in greater depth. See below for details. I offer an initial free-of-charge consultation to all clients who are interested in exploring whether they'd like to work with me. 
+I offer a mixture of exploration, insight and gentle challenge to help those I work with understand their lives and interpersonal worlds in greater depth.
+
+I offer an initial free-of-charge consultation to all clients who are interested in exploring whether they'd like to work with me. 
 
 **For individuals:**
-I offer psychodynamic counselling and therapy for individuals. Typically I work on an open-ended basis. Sessions take place once a week for 50 minutes and are on a sliding scale from £80-£110 depending on your circumstances.
+I offer psychodynamic counselling and therapy. Typically I work on an open-ended basis. Sessions take place once a week for 50 minutes and are on a sliding scale from £80-£110.
 
 I reserve a number of low-cost spaces in my practice for those who are on a low income and do not have access to funds or other wealth.  Please get in touch to discuss what may be possible.
 
 **For couples:**
 
-Counselling and therapy is also available for couples, on an open-ended basis. The fee for couple sessions is on a sliding scale from £90-£130 depending on circumstances. 
+Counselling and therapy is also available for couples, on an open-ended basis. The fee for couple sessions is on a sliding scale from £90-£130. 
 
 I'm also currently undertaking advanced training in psychosexual therapy at Tavistock Relationships and can offer sex therapy for couples or individuals. 
 
-Many different issues around sexuality and intimacy may be suitable for psychosexual and relational work. If you're not sure, don't hesitate to get in touch: I offer a free-of-charge initial consultation for us to think together about whether it could be of use to you as a couple.
+Many different issues around sexuality and intimacy may be suitable for psychosexual and relational work. If you're not sure, don't hesitate to get in touch and arrange an initial consultation for us to think together about whether it could be of use to you as a couple.
 
 You can get the ball rolling by contacting me: [effywesttherapy@gmail.com](mailto:effywesttherapy@gmail.com).
 
