@@ -51,7 +51,7 @@ I am psychodynamically trained, though I occasionally draw on other approaches. 
 
 <!-- Professional verification provided by Psychology Today --> 
 <a href="https://www.psychologytoday.com/profile/844331" class="sx-verified-seal"></a> 
-<script type="text/javascript" src="https://member.psychologytoday.com/verified-seal.js" data-badge="13" data-id="844331" data-code="aHR0cHM6Ly93d3cucHN5Y2hvbG9neXRvZGF5LmNvbS9hcGkvdmVyaWZpZWQtc2VhbC9zZWFscy9bQkFER0VdL3Byb2ZpbGUvW1BST0ZJTEVfSURdP2NhbGxiYWNrPXN4Y2FsbGJhY2s="></script> 
+<script type="text/javascript" src="https://member.psychologytoday.com/verified-seal.js" data-badge="15" data-id="844331" data-code="aHR0cHM6Ly93d3cucHN5Y2hvbG9neXRvZGF5LmNvbS9hcGkvdmVyaWZpZWQtc2VhbC9zZWFscy9bQkFER0VdL3Byb2ZpbGUvW1BST0ZJTEVfSURdP2NhbGxiYWNrPXN4Y2FsbGJhY2s="></script> 
 <!-- End Verification -->
 <br/>
 <hr/>
