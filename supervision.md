@@ -15,12 +15,14 @@ I am psychodynamically-trained, with a strong relational bent and a keen interes
 - Integrative or humanistic therapists who are interested in psychodynamic ideas but uncertain about how to use these concepts practically in their work
 - Those making the move into private practice who want support around this transition
 
-I have particular interest in supervising work with the following demographics/on these topics:
+I have particular interest/competency in supervising work with the following demographics/topics:
 
 - LGBTQ clients
 - Non-monogamous clients/non-normative sexual lives
 - Disabled clients/those dealing with chronic health difficulties
 - Developmental trauma (especially neglect in early life) 
+- Working with countertransference
+- Working with ADHD 
 - Sexual difficulties (including where there is a physiological contribution)
 
 You can get the ball rolling by contacting me: [effywesttherapy@gmail.com](mailto:effywesttherapy@gmail.com).
