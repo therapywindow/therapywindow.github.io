@@ -1,16 +1,17 @@
 ---
 layout: page
 title: Effy West
-navtitle: low cost clinic
+navtitle: individuals
 description: Counselling and psychotherapy in London, MNCS Accredited.
 ---
 <img class="col one right" src="/img/8D6106A2-86BA-4F07-AF7B-1B8AC3DCCADE.jpeg" alt="West Therapy" style="margin: 0 0 1em 1em" />
 
-A proportion of my week is reserved for my low cost clinic. These slots cost £25 a session whether you're an individual or a couple and regardless of the type of work you want to do together. 
+I offer psychodynamic counselling and therapy. Typically I work on an open-ended basis. Sessions take place once a week for 50 minutes and are on a sliding scale from £80-£110.
 
 I offer an initial free-of-charge consultation where we can think together about whether we're a good fit.
 
-Demand for these spaces is very high and I operate a waiting list. Please get in touch to be added.
+*I reserve a limited number of low-cost spaces in my practice for those who would otherwise be unable to see me. See my low-cost clinic page for details of how to be added to the waiting list.*
+
 
 You can get the ball rolling by contacting me: [effywesttherapy@gmail.com](mailto:effywesttherapy@gmail.com).
 

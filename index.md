@@ -13,9 +13,6 @@ I offer a mixture of exploration, insight and gentle challenge to help those I w
 I offer an initial free-of-charge consultation to all clients who are interested in exploring whether they'd like to work with me. 
 
 **For individuals:**
-I offer psychodynamic counselling and therapy. Typically I work on an open-ended basis. Sessions take place once a week for 50 minutes and are on a sliding scale from £80-£110.
-
-I reserve a number of low-cost spaces in my practice for those who are on a low income and do not have access to funds or other wealth.  Please get in touch to discuss what may be possible.
 
 **For couples:**
 
