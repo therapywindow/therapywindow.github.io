@@ -12,16 +12,6 @@ I offer a mixture of exploration, insight and gentle challenge to help those I w
 
 I offer an initial free-of-charge consultation to all clients who are interested in exploring whether they'd like to work with me. 
 
-**For individuals:**
-
-**For couples:**
-
-Counselling and therapy is also available for couples, on an open-ended basis. The fee for couple sessions is on a sliding scale from £90-£130. 
-
-I'm also currently undertaking advanced training in psychosexual therapy at Tavistock Relationships and can offer sex therapy for couples or individuals. 
-
-Many different issues around sexuality and intimacy may be suitable for psychosexual and relational work. If you're not sure, don't hesitate to get in touch and arrange an initial consultation for us to think together about whether it could be of use to you as a couple.
-
 You can get the ball rolling by contacting me: [effywesttherapy@gmail.com](mailto:effywesttherapy@gmail.com).
 
 <b>What can I help with?</b>
