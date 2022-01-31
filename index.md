@@ -10,7 +10,7 @@ Welcome. My name is Effy. I’m an MNCS Accredited therapist and counsellor. I a
 
 I offer a mixture of exploration, insight and gentle challenge to help those I work with understand their lives and interpersonal worlds in greater depth.
 
-I offer an initial free-of-charge consultation to all clients who are interested in exploring whether they'd like to work with me. 
+An initial free-of-charge consultation is available to anyone interested in exploring whether they'd like to work with me. 
 
 You can get the ball rolling by contacting me: [effywesttherapy@gmail.com](mailto:effywesttherapy@gmail.com).
 
@@ -30,7 +30,7 @@ Many of my clients seek out therapy with me because they:
 
 The above list is not exhaustive -- I also work with trauma, interpersonal problems, life transitions, and ongoing mental health difficulties (including, but certainly not limited to, depression and anxiety).
 
-You might not be sure whether I work with the issues you want to bring. Please feel free to contact me — we can consider together whether I’m the right therapist for you. If not, I can usually think of a trusted colleague or two who might be a better fit and I can put you in touch with them.
+You might not be sure whether I work with the issues you want to bring. Please feel free to contact me — we can consider together whether I’m the right therapist for you. If I'm not, I can usually think of a trusted colleague or two who might be a better fit and I can put you in touch with them.
 
 <b>How do you work?</b>
 
