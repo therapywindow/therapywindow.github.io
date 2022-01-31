@@ -22,7 +22,7 @@ My workshops generally include creative exercises, some theoretical learning, an
 Workshops and trainings can be delivered in-person or online.
  
 
-** Feedback from previous workshop participants (shared with permission) **
+**Feedback from previous workshop participants (shared with permission)**
 
 > "This was the first gender and sexuality workshop I have attended where I felt that it was properly inclusive. I appreciated the focus being on our own experiences. I also appreciated the inclusion of intersections of people's identities and a recognition of cultural differences. As a member of the LGBT+ community it felt like a safe space for me, even if others had views that I found difficult to hear - the discussion was contained and managed well."
 
