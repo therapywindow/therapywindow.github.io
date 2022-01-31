@@ -28,8 +28,6 @@ Workshops and trainings can be delivered in-person or online.
 
 > "The creative exercise at the beginning helped to draw holistically into the subject, make it learning not just at a cognitive level, but an embodied experience ... the role play, helped to put theory into practice."
 
->
-
 
 
 <!-- Professional verification provided by Psychology Today --> 
