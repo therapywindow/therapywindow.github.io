@@ -5,7 +5,8 @@
     <nav class="site-nav">
 
       <div class="trigger">
-        {% for node in site.pages %}
+        {% assign sorted_pages = site.pages | sort:"order" %}
+        {% for node in sorted_pages %}
           {% if node.navtitle %}
           <a class="page-link{% if page.url == node.url %} page-link--active{% endif %}" href="{{ node.url | prepend: site.baseurl }}">{{ node.navtitle }}</a>
           {% elsif node.title %}
