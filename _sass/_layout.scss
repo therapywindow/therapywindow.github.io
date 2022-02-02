@@ -113,7 +113,7 @@ color: $theme-color;
  * Page content   **********************************************************
  */
 .page-content {
-padding: 4em 0; /* VERTICAL PADDING FOR TITLE ON EVERY PAGE */
+padding: 6em 0 4em; /* VERTICAL PADDING FOR TITLE ON EVERY PAGE */
 }
 .page-heading {
 font-size: 20px;
@@ -143,6 +143,7 @@ margin-bottom: $vertical-spacing-unit;
 font-size: 42px;
 letter-spacing: -1px;
 line-height: 1;
+margin-bottom: 8px;
 @include media-query($on-laptop) {
 font-size: 36px;
     }
@@ -174,7 +175,6 @@ font-size: 18px;
 .post-meta {
 font-size: $small-font-size;
 color: $grey-color;
-margin-bottom: 0px; 
 }
 .post-link {
 display: block;

@@ -11,3 +11,7 @@ github_username:  therapywindow
 markdown: kramdown
 
 highlighter: rouge
+
+# Pagination
+paginate: 1
+paginate_path: "/blog/page:num/"
