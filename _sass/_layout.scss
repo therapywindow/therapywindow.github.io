@@ -10,9 +10,9 @@
   z-index: 50;
   padding: 0.5em 0;
   @media (min-width: $on-palm) {
-    position:sticky;
-    left:0;
-    top:0;
+    position: sticky;
+    left: 0;
+    top: 0;
     backdrop-filter: blur(3px);
   }
 }
