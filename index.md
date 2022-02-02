@@ -6,6 +6,10 @@ description: Counselling and psychotherapy in London, MNCS Accredited.
 ---
 <img class="col one right" src="/img/8D6106A2-86BA-4F07-AF7B-1B8AC3DCCADE.jpeg" alt="West Therapy" style="margin: 0 0 1em 1em" />
 
+<img class="col one " src="/img/mncs-accred-logo.jpg" alt="West Therapy" style="margin: 0 0 1em 1em" /> 
+
+
+
 Welcome. My name is Effy. I’m an MNCS Accredited therapist and counsellor. I also teach, train and supervise counsellors and therapists.
 
 I offer a mixture of exploration, insight and gentle challenge to help those I work with understand their lives and interpersonal worlds in greater depth.
