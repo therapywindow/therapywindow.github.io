@@ -2,6 +2,7 @@
 layout: page
 title: Effy West
 navtitle: low cost clinic
+permalink: /low-cost-clinic/
 order: 40
 description: Counselling and psychotherapy in London, MNCS Accredited.
 ---

@@ -2,6 +2,7 @@
 layout: page
 title: Effy West
 navtitle: training and workshops
+permalink: /training-and-workshops/
 order: 60
 description: Counselling and psychotherapy in London, MNCS Accredited.
 ---

@@ -2,6 +2,7 @@
 layout: page
 title: Effy West
 navtitle: couples
+permalink: /couples/
 order: 30
 description: Counselling and psychotherapy in London, MNCS Accredited.
 ---

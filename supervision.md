@@ -2,6 +2,7 @@
 layout: page
 title: Effy West
 navtitle: supervision
+permalink: /supervision/
 order: 50
 description: Counselling and psychotherapy in London, MNCS Accredited.
 ---
