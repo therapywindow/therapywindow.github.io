@@ -10,7 +10,7 @@ description: Counselling and psychotherapy in London, MNCS Accredited.
 
 A proportion of my week is reserved for my low cost clinic. These slots cost £25 a session whether for an individual or a couple and regardless of the type of work you want to do together. 
 
-The low-cost clinic is intended to facilitate financial access for people who who don't have access to funds or wealth that would enable them to pay for a standard slot. 
+The low-cost clinic is intended to facilitate financial access for people who don't have access to funds or wealth that would enable them to pay for a standard slot. 
 
 I offer an initial free-of-charge consultation where we can think together about whether we're a good fit.
 
