@@ -1,14 +1,10 @@
 ---
 layout: page
-title: Effy West
+title: Training and Workshops
+description: 
 navtitle: training and workshops
-<<<<<<< HEAD:training and workshops.md
-description: Training and Workshops
-=======
 permalink: /training-and-workshops/
 order: 60
-description: Counselling and psychotherapy in London, MNCS Accredited.
->>>>>>> master:training-and-workshops.md
 ---
 <img class="col one right" src="/img/8D6106A2-86BA-4F07-AF7B-1B8AC3DCCADE.jpeg" alt="West Therapy" style="margin: 0 0 1em 1em" />
 

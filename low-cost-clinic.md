@@ -1,14 +1,10 @@
 ---
 layout: page
-title: Effy West
+title: Low Cost Clinic
+description: 
 navtitle: low cost clinic
-<<<<<<< HEAD:low cost clinic.md
-description: Low Cost Clinic.
-=======
 permalink: /low-cost-clinic/
 order: 40
-description: Counselling and psychotherapy in London, MNCS Accredited.
->>>>>>> master:low-cost-clinic.md
 ---
 <img class="col one right" src="/img/8D6106A2-86BA-4F07-AF7B-1B8AC3DCCADE.jpeg" alt="West Therapy" style="margin: 0 0 1em 1em" />
 

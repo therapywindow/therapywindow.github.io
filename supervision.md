@@ -1,14 +1,10 @@
 ---
 layout: page
-title: Effy West
+title: Supervision
+description: 
 navtitle: supervision
-<<<<<<< HEAD
-description: Supervision
-=======
 permalink: /supervision/
 order: 50
-description: Counselling and psychotherapy in London, MNCS Accredited.
->>>>>>> master
 ---
 <img class="col one right" src="/img/8D6106A2-86BA-4F07-AF7B-1B8AC3DCCADE.jpeg" alt="West Therapy" style="margin: 0 0 1em 1em" />
 
