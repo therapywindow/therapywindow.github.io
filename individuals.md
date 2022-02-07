@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Counselling for individuals
+title: Therapy for individuals
 navtitle: individuals
 description: Therapy for Individuals
 permalink: /individuals/
