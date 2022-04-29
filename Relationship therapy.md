@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Relationship Therapy
+title: relationship therapy
 description: 
-navtitle: Relationship Therapy
+navtitle: relationship therapy
 permalink: /relationshiptherapy/
 order: 30
 ---
