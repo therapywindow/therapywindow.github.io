@@ -10,6 +10,8 @@ order: 50
 
 I have available space for supervisees.
 
+I hold a Diploma in Integrative Supervision of Individuals and Groups.
+
 Supervision is offered on a sliding scale from £50-80 depending on your circumstances.
 
 I am psychodynamically-trained, with a strong relational bent and a keen interest in other modalities. I feel I could be particularly helpful to:
