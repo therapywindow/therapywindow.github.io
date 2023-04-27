@@ -28,7 +28,7 @@ I hold:
 <b>What do I offer?</b>
 
 
-In my work, I prioritise client autonomy, therapeutic and relational authenticity and 
+In my work, I prioritise client autonomy, therapeutic and relational authenticity, and attention to the social and political dimensions of our experience.
 
 I think that therapy is one way of figuring out what we might want from life. It has the potential to allow us to find enduring forms of resilience, to live courageously and build connection, and to find ways of existing that take us beyond survival and towards vitality. 
 
