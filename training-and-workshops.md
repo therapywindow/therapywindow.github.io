@@ -14,6 +14,9 @@ I offer training, workshops and ad-hoc consultations on a number of issues, incl
  * Disability
  * Neurodiversity
  * Alternative relationships (non-monogamy etc)
+ * Practical approaches to psychodynamic formulation
+ * Stigma and marginalised identities in the therapy room
+ * Clinical competencies for supporting sex workers
 
 ### Workshops
 

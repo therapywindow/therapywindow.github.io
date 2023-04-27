@@ -7,32 +7,35 @@ order: 10
 ---
 <img class="col one right" src="/img/8D6106A2-86BA-4F07-AF7B-1B8AC3DCCADE.jpeg" alt="West Therapy" style="margin: 0 0 1em 1em" />
 
-Welcome. My name is Effy. I’m an MNCS Accredited therapist and counsellor. I hold a masters degree in counselling. I also teach, train and supervise counsellors and therapists.
+Welcome. My name is Effy. I’m an MNCS Accredited therapist and counsellor. I also teach, train and supervise counsellors and therapists.
 
-I offer a mixture of exploration, insight and gentle challenge to help those I work with understand their lives and interpersonal worlds in greater depth.
+I offer a mixture of exploration, insight and supportive challenge to help people figure out what the best version of their life might look like, and how they can go about living it. 
 
-An initial free-of-charge consultation is available to anyone interested in exploring whether they'd like to work with me. 
+An initial free-of-charge consultation is available if you are interested in exploring whether you'd like to work with me. 
 
 You can get the ball rolling by contacting me: [effywesttherapy@gmail.com](mailto:effywesttherapy@gmail.com).
 
-<b>What can I help with?</b>
+<b> My training and qualifications </b>
 
-Many of my clients seek out therapy with me because they:
+I hold:
 
-⁃ Struggle to consistently feel ‘good enough’ and would like to build more resilient self-esteem
+- A masters degree in psychodynamic counselling
+- A 2-year diploma in integrative psychosexual therapy with couples and individuals
+- A diploma in group and individual clinical supervision 
+- I am also EFT-trained (Emotionally-Focused therapy, an attachment-based model of couple therapy)
 
-⁃ Find it hard to set healthy boundaries in different areas of their lives and want to find ways to do so
 
-⁃ Can’t seem to find balance— particularly around work and play
+<b>What do I offer?</b>
 
-⁃ Would like to understand how their life experiences are affecting their relationships in the present, opening up new possibilities for relating
 
-⁃ Have experienced marginalisation and want a therapist who strives to take an inclusive stance (I am committed to continually learning and improving through personal and professional reflection and by listening to the experiences of those with identities different from my own)
+In my work, I prioritise client autonomy, therapeutic and relational authenticity and 
 
-The above list is not exhaustive -- I also work with trauma, interpersonal problems, life transitions, and ongoing mental health difficulties (including, but certainly not limited to, depression and anxiety).
+I think that therapy is one way of figuring out what we might want from life. It has the potential to allow us to find enduring forms of resilience, to live courageously and build connection, and to find ways of existing that take us beyond survival and towards vitality. 
+
+I believe that an analysis of marginalisation and power dynamics in our society is essential in order to practice ethically. I am committed to ongoing learning and development, both personally and professionally. I am particularly interested in gender, sexuality, race, histories of colonisation, carcerality, class, disability, and a number of other intersecting issues.  
 
 You might not be sure whether I work with the issues you want to bring. Please feel free to contact me — we can consider together whether I’m the right therapist for you. If I'm not, I can usually think of a trusted colleague or two who might be a better fit and I can put you in touch with them.
 
 <b>How do you work?</b>
 
-I am psychodynamically trained, though I occasionally draw on other approaches. I am very happy to discuss how we will work together at the beginning, and throughout the process.
+I am psychodynamically trained, though I draw on other approaches including attachment-focused models and behavioural techniques where appropriate. I am keen to demystify therapy, and I am happy to answer questions about my approach before our work begins, and throughout the process. 

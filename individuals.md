@@ -8,7 +8,7 @@ order: 20
 ---
 <img class="col one right" src="/img/8D6106A2-86BA-4F07-AF7B-1B8AC3DCCADE.jpeg" alt="West Therapy" style="margin: 0 0 1em 1em" />
 
-I offer psychodynamic counselling and therapy. Typically I work on an open-ended basis. Sessions take place once a week for 50 minutes and are on a sliding scale from £80-£110.
+I offer psychodynamic counselling and therapy. Typically I work on an open-ended basis. Sessions take place once a week for 50 minutes and are on a sliding scale from £80-£150.
 
 I offer an initial free-of-charge consultation where we can think together about whether we're a good fit.
 

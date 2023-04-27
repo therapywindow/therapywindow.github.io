@@ -8,11 +8,11 @@ order: 50
 ---
 <img class="col one right" src="/img/8D6106A2-86BA-4F07-AF7B-1B8AC3DCCADE.jpeg" alt="West Therapy" style="margin: 0 0 1em 1em" />
 
-I have available space for supervisees.
+I have available space for supervisees. You are also welcome to contact me for one-off consultations or ad-hoc input if you feel I could be of use to you.
 
 I hold a Diploma in Integrative Supervision of Individuals and Groups.
 
-Supervision is offered on a sliding scale from £50-80 depending on your circumstances.
+Supervision is offered on a sliding scale from £50-100 depending on your circumstances.
 
 I am psychodynamically-trained, with a strong relational bent and a keen interest in other modalities. I feel I could be particularly helpful to:
 
