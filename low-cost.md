@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Low Cost Clinic
+title: Low Cost
 description: 
 navtitle: low cost clinic
 permalink: /low-cost-clinic/

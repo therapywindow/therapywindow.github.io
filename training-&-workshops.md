@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Training and Workshops
+title: Training & Workshops
 description: 
 navtitle: training and workshops
 permalink: /training-and-workshops/
