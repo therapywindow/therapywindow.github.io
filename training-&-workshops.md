@@ -2,7 +2,7 @@
 layout: page
 title: Training & Workshops
 description: 
-navtitle: training and workshops
+navtitle: training & workshops
 permalink: /training-and-workshops/
 order: 60
 ---

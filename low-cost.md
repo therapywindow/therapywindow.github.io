@@ -2,7 +2,7 @@
 layout: page
 title: Low Cost
 description: 
-navtitle: low cost clinic
+navtitle: low cost
 permalink: /low-cost-clinic/
 order: 40
 ---
