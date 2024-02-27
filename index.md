@@ -7,11 +7,14 @@ order: 10
 ---
 <img class="col one right" src="/img/8D6106A2-86BA-4F07-AF7B-1B8AC3DCCADE.jpeg" alt="West Therapy" style="margin: 0 0 1em 1em" />
 
-Welcome. My name is Effy. I’m an MNCS Accredited therapist and counsellor. I also teach, train and supervise counsellors and therapists.
+Welcome. My name is Effy. I’m an MNCS Accredited therapist and counsellor. I also teach, train and supervise counsellors and therapists. 
+
+I'm one of the founders of <a href="https://www.hedgerowtherapy.com>Hedgerow Therapy Collective.</a>
 
 I offer a mixture of exploration, insight and supportive challenge to help people figure out what the best version of their life might look like, and how they can go about living it. 
 
 An initial free-of-charge consultation is available if you are interested in exploring whether you'd like to work with me. 
+
 
 You can get the ball rolling by contacting me: [effywesttherapy@gmail.com](mailto:effywesttherapy@gmail.com).
 

@@ -8,7 +8,9 @@ order: 30
 ---
 <img class="col one right" src="/img/8D6106A2-86BA-4F07-AF7B-1B8AC3DCCADE.jpeg" alt="West Therapy" style="margin: 0 0 1em 1em" />
 
-I work with couples and other relationship configurations (including non-monogamous and polyamorous arrangements, and open relationships more generally).
+For relationship-focused workshops, it's worth checking out my group practice, [Hedgerow Therapy Collective](https://www.hedgerowtherapy.com/relationshipworkshops).
+
+I offer therapy with couples and other relationship configurations (including non-monogamous and polyamorous arrangements, and open relationships more generally).
 
 I work in an attachment-focused way to help people understand what is happening between them (and why!). I support couples to identify recurring conflicts, break negative cycles, and build new and enduring patterns of positive and secure relating.
 
