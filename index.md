@@ -9,7 +9,7 @@ order: 10
 
 Welcome. My name is Effy. I’m an MNCS Accredited therapist and counsellor. I also teach, train and supervise counsellors and therapists. 
 
-I'm one of the founders of <a href="https://www.hedgerowtherapy.com>Hedgerow Therapy Collective.</a>
+I'm one of the founders of [Hedgerow Therapy Collective](https://www.hedgerowtherapy.com).
 
 I offer a mixture of exploration, insight and supportive challenge to help people figure out what the best version of their life might look like, and how they can go about living it. 
 
