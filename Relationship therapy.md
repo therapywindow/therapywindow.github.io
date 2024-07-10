@@ -20,7 +20,7 @@ I use an integrative psychosexual model, combining psychodynamic and attachment 
 
 Many different issues around sexuality and intimacy may be suitable for psychosexual and/or relationship work. If you're not sure, don't hesitate to get in touch and arrange an initial consultation. We will think together about whether I can be of use to you. 
 
-The fee for these sessions is on a sliding scale from £130-£180 per session. I ask clients to place themselves on this scale according to what they can afford. This fee structure allows me to subsidise [low-cost places](https://www.effywest.com/low-cost-clinic/) in my clinic. 
+The fee for these sessions is on a sliding scale from £100-£150 per session. I ask clients to place themselves on this scale according to what they can afford. This fee structure allows me to subsidise [low-cost places](https://www.effywest.com/low-cost-clinic/) in my clinic. 
 
 I offer an initial free-of-charge consultation to consider together whether therapy is the right thing for your relationship at this moment in time, and if so whether I'm a good fit for you.
 
