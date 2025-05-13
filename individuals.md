@@ -14,4 +14,4 @@ I offer an initial free-of-charge consultation where we can think together about
 
 *I reserve a limited number of low-cost spaces in my practice for those who would otherwise be unable to see me. See my [low-cost clinic page](https://www.effywest.com/low-cost-clinic/) for details of how to be added to the waiting list.*
 
-You can get the ball rolling by contacting me: [effywesttherapy@gmail.com](mailto:effywesttherapy@gmail.com)..
+You can get the ball rolling by contacting me: [effywesttherapy@gmail.com](mailto:effywesttherapy@gmail.com).

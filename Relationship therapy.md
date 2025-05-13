@@ -6,7 +6,7 @@ navtitle: relationship therapy
 permalink: /relationshiptherapy/
 order: 30
 ---
-<img class="col one right" src="/img/8D6106A2-86BA-4F07-AF7B-1B8AC3DCCADE.jpeg" alt="West Therapy" style="margin: 0 0 1em 1em" />
+<img class="col one right" src="/img/IMG_0762.jpg" alt="West Therapy" style="margin: 0 0 1em 1em" />
 
 For relationship-focused workshops, it's worth checking out my group practice, [Hedgerow Therapy Collective](https://www.hedgerowtherapy.com/relationshipworkshops).
 

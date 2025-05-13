@@ -6,7 +6,7 @@ navtitle: low cost
 permalink: /low-cost-clinic/
 order: 40
 ---
-<img class="col one right" src="/img/8D6106A2-86BA-4F07-AF7B-1B8AC3DCCADE.jpeg" alt="West Therapy" style="margin: 0 0 1em 1em" />
+<img class="col one right" src="/img/IMG_0762.jpg" alt="West Therapy" style="margin: 0 0 1em 1em" />
 
 A proportion of my week is reserved for my low cost clinic. These slots cost £25 a session whether for an individual or a couple, and regardless of the type of work you want to do together. 
 
