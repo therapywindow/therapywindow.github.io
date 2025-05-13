@@ -35,7 +35,7 @@ In my work, I prioritise autonomy and authenticity, and I pay attention to the s
 
 I think that therapy is one (often pretty good) way of figuring out what we might want from life. It has the potential to help us build emotional robustness, so we can live more courageously and build satisfying connections. Good therapy should help us find ways of existing that take us beyond survival and towards vitality. 
 
-I believe that an analysis of marginalisation and power dynamics in our society is essential for ethical practice ethically. I am committed to ongoing learning and development, both personally and professionally. I am particularly interested in gender, sexuality, race, histories of colonisation, carcerality, class, disability, and a number of other intersecting issues.
+I believe that an analysis of marginalisation and power dynamics in our society is essential for ethical practice. I am committed to ongoing learning and development, both personally and professionally. I am particularly interested in gender, sexuality, race, histories of colonisation, carcerality, class, disability, and a number of other intersecting issues.
 
 You might not be sure whether I work with the issues you want to bring. Please feel free to contact me — we can consider together whether I’m the right therapist for you. If I'm not, I can usually think of a trusted colleague or two who might be a better fit and I can put you in touch with them.
 
