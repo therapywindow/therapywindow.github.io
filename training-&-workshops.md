@@ -6,7 +6,7 @@ navtitle: training & workshops
 permalink: /training-and-workshops/
 order: 70
 ---
-<img class="col one right" src="/img/8D6106A2-86BA-4F07-AF7B-1B8AC3DCCADE.jpeg" alt="West Therapy" style="margin: 0 0 1em 1em" />
+<img class="col one right" src="/img/IMG_0762.jpg" alt="West Therapy" style="margin: 0 0 1em 1em" />
 
 I offer training, workshops and ad-hoc consultations on a number of issues, including:
 

@@ -6,7 +6,7 @@ navtitle: supervision
 permalink: /supervision/
 order: 50
 ---
-<img class="col one right" src="/img/8D6106A2-86BA-4F07-AF7B-1B8AC3DCCADE.jpeg" alt="West Therapy" style="margin: 0 0 1em 1em" />
+<img class="col one right" src="/img/IMG_0762.jpg" alt="West Therapy" style="margin: 0 0 1em 1em" />
 
 I have available space for supervisees. You are also welcome to contact me for one-off consultations or ad-hoc input if you feel I could be of use to you.
 
